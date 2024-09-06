@@ -1,5 +1,5 @@
 ## Live Demo 
-https://weather-app3-pgtd.onrender.com/
+https://weather-app-beta-ten-74.vercel.app/
 
 ## About the app
 1. Users can input the name of a city they want to get weather information for. The search icon triggers the search function when clicked.
